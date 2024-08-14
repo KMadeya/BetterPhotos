@@ -1,1 +1,1 @@
-Created a webpage that explores the fundamentals of using SASS.
+Created a webpage that explores the fundamentals of using SCSS.
